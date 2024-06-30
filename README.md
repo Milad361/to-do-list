@@ -26,7 +26,7 @@ npm install
 ```
 **Run the application:**
 ```
-npm start
+npm run dev
 ```
 Let me know if you have any questions or if there's anything else I can help you with!
 
